@@ -1,4 +1,3 @@
-
 export interface TestCommonObject {
-    text: string;
+  text: string;
 }
