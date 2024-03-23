@@ -5,6 +5,7 @@
     "moduleResolution": "node",
     "strict": true,
     "outDir": "./dist",
+    "rootDir": "./src",
     "esModuleInterop": true,
     "sourceMap": true,
     "noImplicitAny": true,
