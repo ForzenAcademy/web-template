@@ -18,6 +18,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
+    "forzen-db": "^0.1.0",
+    "forzen-di": "^0.0.1",
     "forzen-network": "^0.1.0",
     "mysql": "^2.18.1"
   },
